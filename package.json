@@ -8,10 +8,22 @@
     "server": "nodemon index.js"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "knex": "^0.19.4",
     "sqlite3": "^4.1.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Turtled/webapi-ii-challenge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Turtled/webapi-ii-challenge/issues"
+  },
+  "homepage": "https://github.com/Turtled/webapi-ii-challenge#readme"
 }
